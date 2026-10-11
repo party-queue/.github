@@ -35,6 +35,13 @@ przez stronę WWW – bez kont i bez instalowania – a gospodarz decyduje, co z
 <img src="img/host-page.jpg" alt="The host page on a computer" width="430">
 </p>
 
+## ☕ Free forever · Darmowa na zawsze
+
+Party Queue is, and always will be, **completely free** – no ads, no paid features, no subscriptions, no accounts. If you like what I do, you can
+**[buy me a coffee](https://suppi.pl/mleczakm)**. ·
+Party Queue jest i zawsze będzie **w pełni darmowa** – bez reklam, płatnych funkcji, subskrypcji i kont. Jeśli podoba Ci się to, co robię, możesz
+**[postawić mi kawę](https://suppi.pl/mleczakm)**.
+
 ## Repositories · Repozytoria
 
 | | |
