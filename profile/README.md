@@ -30,8 +30,9 @@ przez stronę WWW – bez kont i bez instalowania – a gospodarz decyduje, co z
 </table>
 
 <p align="center">
-<img src="img/host-page.jpg" alt="The host page on a computer" width="560">
-<img src="img/mobile.jpg" alt="The page on phones" width="300">
+<img src="img/app-queue.jpg" alt="The app" width="150">
+<img src="img/app-search.jpg" alt="Search" width="150">
+<img src="img/host-page.jpg" alt="The host page on a computer" width="430">
 </p>
 
 ## Repositories · Repozytoria
